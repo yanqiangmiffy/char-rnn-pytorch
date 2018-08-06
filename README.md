@@ -1,4 +1,4 @@
-# char-rnn-pytorch
+# :bear: char-rnn-pytorch
 基于pytorch实现char rnn，生成英文名字
 
 ```
