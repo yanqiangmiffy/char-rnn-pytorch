@@ -1,5 +1,5 @@
-# :bear: char-rnn-pytorch
-基于pytorch实现char rnn，生成英文名字
+# char-rnn-pytorch
+:bear: 基于pytorch实现char rnn，生成英文名字
 
 ```
 > python sample.py Russian RUS
