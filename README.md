@@ -1,6 +1,7 @@
 # char-rnn-pytorch
 :bear: 基于pytorch实现char rnn，生成英文名字
 
+![](https://i.imgur.com/JH58tXY.png)
 ```
 > python sample.py Russian RUS
 Rovakov
